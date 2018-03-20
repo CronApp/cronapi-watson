@@ -1,0 +1,39 @@
+[submodule "cronapi-watson-conversation"]
+	path = cronapi-watson-conversation
+	url = https://github.com/CronApp/cronapi-watson-conversation.git
+	branch = develop
+[submodule "cronapi-watson-personality-insights"]
+	path = cronapi-watson-personality-insights
+	url = https://github.com/CronApp/cronapi-watson-personality-insights.git
+	branch = develop
+[submodule "cronapi-watson-natural-language-classifier"]
+	path = cronapi-watson-natural-language-classifier
+	url = https://github.com/CronApp/cronapi-watson-natural-language-classifier
+	branch = develop
+[submodule "cronapi-watson-language-translator"]
+	path = cronapi-watson-language-translator
+	url = https://github.com/CronApp/cronapi-watson-language-translator.git
+	branch = develop
+[submodule "cronapi-watson-text-to-speech"]
+	path = cronapi-watson-text-to-speech
+	url = https://github.com/CronApp/cronapi-watson-text-to-speech.git
+	branch = develop
+[submodule "cronapi-watson-speech-to-text"]
+	path = cronapi-watson-speech-to-text
+	url = https://github.com/CronApp/cronapi-watson-speech-to-text.git
+	branch = develop
+[submodule "cronapi-watson-tone-analyzer"]
+	path = cronapi-watson-tone-analyzer
+	url = https://github.com/CronApp/cronapi-watson-tone-analyzer.git
+	branch = develop
+[submodule "cronapi-watson-visual-recognition"]
+	path = cronapi-watson-visual-recognition
+	url = https://github.com/CronApp/cronapi-watson-visual-recognition.git
+	branch = develop
+[submodule "cronapi-watson-discovery"]
+	path = cronapi-watson-discovery
+	url = https://github.com/CronApp/cronapi-watson-discovery.git
+	branch = develop
+[submodule "cronapi-watson-natural-language-understanding"]
+	path = cronapi-watson-natural-language-understanding
+	url = https://github.com/CronApp/cronapi-watson-natural-language-understanding.git
