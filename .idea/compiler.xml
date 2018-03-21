@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cronapi-watson" />
+        <module name="cronapi-watson-conversation" />
+        <module name="cronapi-watson-discovery" />
+        <module name="cronapi-watson-language-translator" />
+        <module name="cronapi-watson-natural-language-classifier" />
+        <module name="cronapi-watson-natural-language-understanding" />
+        <module name="cronapi-watson-personality-insights" />
+        <module name="cronapi-watson-speech-to-text" />
+        <module name="cronapi-watson-text-to-speech" />
+        <module name="cronapi-watson-tone-analyzer" />
+        <module name="cronapi-watson-visual-recognition" />
+        <module name="cronapp-watson" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cronapi-watson" target="1.5" />
+      <module name="cronapi-watson-conversation" target="1.5" />
+      <module name="cronapi-watson-discovery" target="1.5" />
+      <module name="cronapi-watson-language-translator" target="1.5" />
+      <module name="cronapi-watson-natural-language-classifier" target="1.5" />
+      <module name="cronapi-watson-natural-language-understanding" target="1.5" />
+      <module name="cronapi-watson-personality-insights" target="1.5" />
+      <module name="cronapi-watson-speech-to-text" target="1.5" />
+      <module name="cronapi-watson-text-to-speech" target="1.5" />
+      <module name="cronapi-watson-tone-analyzer" target="1.5" />
+      <module name="cronapi-watson-visual-recognition" target="1.5" />
+      <module name="cronapp-watson" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

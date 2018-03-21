@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cronapi-watson-conversation/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-personality-insights/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-text-to-speech/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-natural-language-understanding/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-natural-language-classifier/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-speech-to-text/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-language-translator/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-tone-analyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/cronapi-watson-visual-recognition/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

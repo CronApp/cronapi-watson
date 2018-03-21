@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson.iml" filepath="$PROJECT_DIR$/cronapi-watson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-conversation/cronapi-watson-conversation.iml" filepath="$PROJECT_DIR$/cronapi-watson-conversation/cronapi-watson-conversation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-discovery/cronapi-watson-discovery.iml" filepath="$PROJECT_DIR$/cronapi-watson-discovery/cronapi-watson-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-language-translator/cronapi-watson-language-translator.iml" filepath="$PROJECT_DIR$/cronapi-watson-language-translator/cronapi-watson-language-translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-natural-language-classifier/cronapi-watson-natural-language-classifier.iml" filepath="$PROJECT_DIR$/cronapi-watson-natural-language-classifier/cronapi-watson-natural-language-classifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-natural-language-understanding/cronapi-watson-natural-language-understanding.iml" filepath="$PROJECT_DIR$/cronapi-watson-natural-language-understanding/cronapi-watson-natural-language-understanding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-personality-insights/cronapi-watson-personality-insights.iml" filepath="$PROJECT_DIR$/cronapi-watson-personality-insights/cronapi-watson-personality-insights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-speech-to-text/cronapi-watson-speech-to-text.iml" filepath="$PROJECT_DIR$/cronapi-watson-speech-to-text/cronapi-watson-speech-to-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-text-to-speech/cronapi-watson-text-to-speech.iml" filepath="$PROJECT_DIR$/cronapi-watson-text-to-speech/cronapi-watson-text-to-speech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-tone-analyzer/cronapi-watson-tone-analyzer.iml" filepath="$PROJECT_DIR$/cronapi-watson-tone-analyzer/cronapi-watson-tone-analyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapi-watson-visual-recognition/cronapi-watson-visual-recognition.iml" filepath="$PROJECT_DIR$/cronapi-watson-visual-recognition/cronapi-watson-visual-recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cronapp-watson.iml" filepath="$PROJECT_DIR$/cronapp-watson.iml" />
+    </modules>
+  </component>
+</project>

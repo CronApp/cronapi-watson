@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://maven.apache.org/POM/4.0.0"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>io.cronapp</groupId>
+  <artifactId>cronapi-watson</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <modules>
+    <module>cronapi-watson-conversation</module>
+    <module>cronapi-watson-discovery</module>
+    <module>cronapi-watson-language-translator</module>
+    <module>cronapi-watson-natural-language-classifier</module>
+    <module>cronapi-watson-natural-language-understanding</module>
+    <module>cronapi-watson-personality-insights</module>
+    <module>cronapi-watson-speech-to-text</module>
+    <module>cronapi-watson-text-to-speech</module>
+    <module>cronapi-watson-tone-analyzer</module>
+    <module>cronapi-watson-visual-recognition</module>
+  </modules>
+</project>
